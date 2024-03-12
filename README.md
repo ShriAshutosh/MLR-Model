@@ -2,10 +2,10 @@
 Built a Multiple Linear Regression model for the prediction of demand for shared bikes based upon 2 years of Data set(2018 & 2019)!!
 
 # Introduction:-
-> A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled 
-  wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
-> You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business 
-  strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+ * A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled 
+ wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+ * You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business 
+ strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
 # Steps Performed:-
 > Started by understanding the data then performing EDA, after that we split the dataset into training set (which would be used to train a model) and the testing set (which would be used to check how close is our model to the predicted output).
