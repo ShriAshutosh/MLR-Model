@@ -17,7 +17,7 @@ Built a Multiple Linear Regression model for the prediction of demand for shared
   registered users who have made a booking on a given day. Finally, the 'cnt' variable indicates the total number of bike rentals, including both casual and registered. The model should be built taking this 'cnt' as the target variable.
 
 # Model Evaluation:-
-*After completing model building and residual analysis and predictions on the test set, I calculated the R-squared score on the test set: where y_test is the test data set for the target variable, and y_pred is the variable containing the predicted values of the target variable on the test set.
+* After completing model building and residual analysis and predictions on the test set, I calculated the R-squared score on the test set: where y_test is the test data set for the target variable, and y_pred is the variable containing the predicted values of the target variable on the test set.
 
 # Findings:-
 * Categorical variables in dataset are season, yr, mnth, holiday, weekday, weathersit and from the analysis, we can infer that
